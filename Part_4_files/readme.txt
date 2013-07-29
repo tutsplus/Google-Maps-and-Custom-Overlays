@@ -1,0 +1,1 @@
+The files in this folder were used in the "Help - my map tiles aren't named correctly" section.
