@@ -1,1 +1,0 @@
-The files in this folder were used in the "Compressing your map titles" section.
